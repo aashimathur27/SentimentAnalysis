@@ -49,7 +49,7 @@ sentiment-analysis/
 
 ## ▶️ How to Run the App
 
-### 1. Install Dependencies
+## 1. Install Dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -60,14 +60,23 @@ streamlit run app.py
 
 ✨ Future Improvements
 Add more detailed sentiment categories (e.g., Very Positive)
+
 Use deep learning (e.g., LSTM/BERT) for better accuracy
+
 Allow visualizations like word clouds for uploaded reviews
 
 📌 Sample Usage
 Input:
+
+arduino
+Copy
+Edit
 "The product was absolutely wonderful and easy to use!"
 Output:
-Sentiment: Positive ✅
 
+makefile
+Copy
+Edit
+Sentiment: Positive ✅
 🤝 Contributing
 Feel free to fork the repo and submit a pull request with suggestions or improvements.
